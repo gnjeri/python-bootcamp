@@ -1,5 +1,7 @@
-from tkinter import Y
+z = "hello my queen"
 
+#display z:
+print(z)
 
-y = 12
-print (type(y) )
+#display the data type of z:
+print(type(z))
